@@ -1,0 +1,22 @@
+{
+  "name": "skyminigames-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^2.0.0",
+    "axios": "^1.4.0",
+    "chatgpt-api": "^0.0.6",
+    "discord-api-types": "^0.37.51",
+    "discord-html-transcripts": "^3.1.5",
+    "discord.js": "^14.11.0",
+    "moment": "^2.29.4",
+    "ms": "^2.1.3",
+    "openai": "^3.3.0"
+  }
+}
